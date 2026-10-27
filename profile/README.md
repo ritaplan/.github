@@ -1,4 +1,9 @@
-# Rita Plan
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritaplan/.github/main/profile/banner-mork.svg">
+    <img src="https://raw.githubusercontent.com/ritaplan/.github/main/profile/banner-ljus.svg" alt="Rita Plan – öppna QGIS-plugin för svensk samhällsplanering" width="100%">
+  </picture>
+</p>
 
 Öppna QGIS-plugin för svensk samhällsplanering, gjorda för kommuner, konsulter och planarkitekter.
 Gränssnitt och dokumentation är på svenska. Öppen källkod under GPL-2.0-or-later.
